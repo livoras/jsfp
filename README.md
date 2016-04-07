@@ -6,4 +6,4 @@ Incredible blogs, books, comments and explanations about functional programming 
 * [Functional JavaScript Mini Book](https://www.gitbook.com/book/jcouyang/functional-javascript/details/en)
 * [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide/)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-* [DITO](http://math.uni.lodz.pl/~kowalcr/PPL/HaskellBook.pdf)
+* [DITTO](http://math.uni.lodz.pl/~kowalcr/PPL/HaskellBook.pdf)
